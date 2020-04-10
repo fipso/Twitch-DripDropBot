@@ -1,0 +1,15 @@
+{
+  "name": "DripDropBot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "@luminati-io/luminati-proxy": "^1.178.350",
+    "fast-xml-parser": "^3.16.0",
+    "global": "^4.4.0",
+    "puppeteer": "^2.1.1",
+    "puppeteer-extra": "^3.1.9",
+    "puppeteer-extra-plugin-stealth": "^2.4.9",
+    "request": "^2.88.2"
+  }
+}
