@@ -9,7 +9,8 @@ module.exports = {
         return new Promise(
             (resolve, reject) => {
 
-                const anticaptcha = require("./anticaptcha")("563b42743cb80191d130ac69ea4a05c5")
+                // I AM A FKING MORON. LEAKED THE API KEY
+                const anticaptcha = require("./anticaptcha")("")
                 anticaptcha.setWebsiteURL(page.url())
                 anticaptcha.setWebsiteKey("6Lc3HAsUAAAAACsN7CgY9MMVxo2M09n_e4heJEiZ")
                 
