@@ -4032,9 +4032,9 @@ supports-color@^5.3.0:
     has-flag "^3.0.0"
 
 systeminformation@^4.14.11:
-  version "4.23.2"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.23.2.tgz#ec85aeffa316a4154fa2901dd82ea45438b15c5a"
-  integrity sha512-eKaZ/oy5sC4gaF47lw8jIs1vPpzc736bqa2eRH1aLHJOE/DPnaaUP0h4wirIoTgwF7+tqSTV3f5QzA9w1dYPsw==
+  version "4.27.11"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.27.11.tgz#6dbe96e48091444f80dab6c05ee1901286826b60"
+  integrity sha512-U7bigXbOnsB8k1vNHS0Y13RCsRz5/UohiUmND+3mMUL6vfzrpbe/h4ZqewowB+B+tJNnmGFDj08Z8xGfYo45dQ==
 
 taskkill@3.1.0:
   version "3.1.0"
